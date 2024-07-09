@@ -155,7 +155,7 @@ export default function Page() {
                   "https://wa.me/6281234567890?text=Halo,saya ingin memesan ayam dari IqbalChicken.")
               }
             >
-              Pesan Disini
+              Pesan Disini ya.
             </button>
           </main>
         </section>
