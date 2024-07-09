@@ -149,7 +149,7 @@ export default function Page() {
             </p>
             <br />
             <button
-              className="flex flex-wrap gap-2 text-base font-semibold text-white bg-yellow-300 py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 ease-in-out duration-300"
+              className="flex flex-wrap gap-2 text-base font-semibold text-black bg-yellow-300 py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 ease-in-out duration-300"
               onClick={() =>
                 (window.location.href =
                   "https://wa.me/6281234567890?text=Halo,saya ingin memesan ayam dari IqbalChicken.")
