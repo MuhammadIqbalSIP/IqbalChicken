@@ -320,7 +320,7 @@ export default function Page() {
               <a href="#" className="text-blue-700 hover:underline">
                 Muhammad Iqbal
               </a>{" "}
-              | &copy; 2024
+              | &copy; 2024.
             </p>
           </div>
         </footer>
